@@ -1,0 +1,27 @@
+C:\Users\admin\Documents\workspace\PorteAutomatique\gen\com\netlinks\porteautomatique\R.java \
+ : C:\Users\admin\Documents\workspace\PorteAutomatique\res\drawable-hdpi\ic_launcher.png \
+C:\Users\admin\Documents\workspace\PorteAutomatique\res\drawable-ldpi\btn_content.png \
+C:\Users\admin\Documents\workspace\PorteAutomatique\res\drawable-ldpi\group.png \
+C:\Users\admin\Documents\workspace\PorteAutomatique\res\drawable-ldpi\icon_help.png \
+C:\Users\admin\Documents\workspace\PorteAutomatique\res\drawable-ldpi\icon_historique.png \
+C:\Users\admin\Documents\workspace\PorteAutomatique\res\drawable-ldpi\icon_param.png \
+C:\Users\admin\Documents\workspace\PorteAutomatique\res\drawable-ldpi\icon_voitures_enreg.png \
+C:\Users\admin\Documents\workspace\PorteAutomatique\res\drawable-ldpi\image_voiture.jpg \
+C:\Users\admin\Documents\workspace\PorteAutomatique\res\drawable-ldpi\options.png \
+C:\Users\admin\Documents\workspace\PorteAutomatique\res\drawable-ldpi\options2.png \
+C:\Users\admin\Documents\workspace\PorteAutomatique\res\drawable-ldpi\portail.jpg \
+C:\Users\admin\Documents\workspace\PorteAutomatique\res\drawable-ldpi\undo.png \
+C:\Users\admin\Documents\workspace\PorteAutomatique\res\drawable-mdpi\ic_launcher.png \
+C:\Users\admin\Documents\workspace\PorteAutomatique\res\drawable-xhdpi\ic_launcher.png \
+C:\Users\admin\Documents\workspace\PorteAutomatique\res\drawable-xxhdpi\ic_launcher.png \
+C:\Users\admin\Documents\workspace\PorteAutomatique\res\layout\dashboard.xml \
+C:\Users\admin\Documents\workspace\PorteAutomatique\res\layout\launcher.xml \
+C:\Users\admin\Documents\workspace\PorteAutomatique\res\layout\voitures.xml \
+C:\Users\admin\Documents\workspace\PorteAutomatique\res\layout\voiture_item.xml \
+C:\Users\admin\Documents\workspace\PorteAutomatique\res\menu\launcher.xml \
+C:\Users\admin\Documents\workspace\PorteAutomatique\res\values\strings.xml \
+C:\Users\admin\Documents\workspace\PorteAutomatique\res\values\styles.xml \
+C:\Users\admin\Documents\workspace\PorteAutomatique\res\values\theme.xml \
+C:\Users\admin\Documents\workspace\PorteAutomatique\res\values-sw600dp\dimens.xml \
+C:\Users\admin\Documents\workspace\PorteAutomatique\res\values-sw720dp-land\dimens.xml \
+C:\Users\admin\Documents\workspace\PorteAutomatique\bin\AndroidManifest.xml \
